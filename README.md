@@ -1,2 +1,3 @@
-# AIML_RAG_AGENT
-AIML Rag Agent developed In N8N Automation software to be shared with AgriTech Team.
+Import this file in N8N. 
+Setup Your Credentials.
+Test it and then Deploy the Workflow.
